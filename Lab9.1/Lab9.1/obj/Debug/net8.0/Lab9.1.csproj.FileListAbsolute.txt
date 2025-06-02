@@ -1,0 +1,14 @@
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\bin\Debug\net8.0\Lab9.1.exe
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\bin\Debug\net8.0\Lab9.1.deps.json
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\bin\Debug\net8.0\Lab9.1.runtimeconfig.json
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\bin\Debug\net8.0\Lab9.1.dll
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\bin\Debug\net8.0\Lab9.1.pdb
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.AssemblyInfoInputs.cache
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.AssemblyInfo.cs
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.csproj.CoreCompileInputs.cache
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.dll
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\refint\Lab9.1.dll
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.pdb
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\Lab9.1.genruntimeconfig.cache
+C:\Users\valej\Desktop\Lab9.1\Lab9.1\obj\Debug\net8.0\ref\Lab9.1.dll

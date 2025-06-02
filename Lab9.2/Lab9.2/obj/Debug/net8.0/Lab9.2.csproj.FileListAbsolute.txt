@@ -1,0 +1,14 @@
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\bin\Debug\net8.0\Lab9.2.exe
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\bin\Debug\net8.0\Lab9.2.deps.json
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\bin\Debug\net8.0\Lab9.2.runtimeconfig.json
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\bin\Debug\net8.0\Lab9.2.dll
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\bin\Debug\net8.0\Lab9.2.pdb
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.AssemblyInfoInputs.cache
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.AssemblyInfo.cs
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.csproj.CoreCompileInputs.cache
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.dll
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\refint\Lab9.2.dll
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.pdb
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\Lab9.2.genruntimeconfig.cache
+C:\Users\valej\Desktop\Lab9.2\Lab9.2\obj\Debug\net8.0\ref\Lab9.2.dll
